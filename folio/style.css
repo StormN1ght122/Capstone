@@ -1,0 +1,23 @@
+.carousel {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    width: 40%;
+    height: 15%;
+    overflow: hidden;
+    background-color: #ffffff;
+    padding: 10px;
+    }
+    
+    .carousel .item {
+    padding: 50px;
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    }
+    
+    
+    
+    
+    
+    
