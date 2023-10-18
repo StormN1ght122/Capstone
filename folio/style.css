@@ -1,12 +1,21 @@
-.carousel {
+.bodyhtml{
+    background-color:  gray;
+    
+    }
+    
+    .carousel {
     margin: auto;
-    margin-top: 10px;
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     width: 40%;
     height: 15%;
     overflow: hidden;
     background-color: #ffffff;
     padding: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
     }
     
     .carousel .item {
@@ -14,10 +23,67 @@
     width: 50%;
     height: 50%;
     position: absolute;
+    
+    
+    
     }
     
+    .container {
+      
+      background-color: #b0c4de;
+      padding: 10px 0px;
+      text-align: center;
+      
+      
+    }
     
+    .display-1 {
+      background-color: #decaB0;
+      border-width: 3px;
+      border-style: solid;
+      border-radius: 3px;
+      padding: 5px 10px 10px;
+      border-color: white;
+      color: Black;
+      
+    }
     
+    p {
+      font-family: bold;
+      background-color: #decaB0; 
+      padding: 10px;
+      border-width: 3px;
+      border-style: solid;
+      border-radius: 3px;
+      padding: 5px 10px 10px;
+      border-color: white;
+      position: center;
+    }
     
+    ol{
+      border-width: 3px;
+      border-style: solid;
+      border-radius: 3px;
+      padding: 5px 10px 10px;
+      border-color: white;
+      background-color:#decaB0;
+      text-align: left;
+      font-family: fantasy;
+      
+    }
+    
+    .p-3 {
+      font-family: bold;
+      background-color: #decaB0; 
+      padding: 10px;
+      background-color: #decaB0;
+      border-width: 3px;
+      border-style: solid;
+      border-radius: 3px;
+      padding: 5px 10px 10px;
+      border-color: white;
+      position: center;
+      font-size:18px;
+    }
     
     
