@@ -1,6 +1,5 @@
 .bodyhtml{
     background-color:  gray;
-    
     }
     
     .carousel {
@@ -23,18 +22,12 @@
     width: 50%;
     height: 50%;
     position: absolute;
-    
-    
-    
     }
     
     .container {
-      
       background-color: #b0c4de;
       padding: 10px 0px;
-      text-align: center;
-      
-      
+      text-align: center; 
     }
     
     .display-1 {
@@ -45,7 +38,6 @@
       padding: 5px 10px 10px;
       border-color: white;
       color: Black;
-      
     }
     
     p {
